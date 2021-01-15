@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vinay72/Monsters-APP/static/css/main.8bcf5aac.chunk.css",
-    "main.js": "/vinay72/Monsters-APP/static/js/main.51bf9538.chunk.js",
-    "main.js.map": "/vinay72/Monsters-APP/static/js/main.51bf9538.chunk.js.map",
-    "runtime-main.js": "/vinay72/Monsters-APP/static/js/runtime-main.f7c5c4b8.js",
-    "runtime-main.js.map": "/vinay72/Monsters-APP/static/js/runtime-main.f7c5c4b8.js.map",
-    "static/js/2.3dfd3ca0.chunk.js": "/vinay72/Monsters-APP/static/js/2.3dfd3ca0.chunk.js",
-    "static/js/2.3dfd3ca0.chunk.js.map": "/vinay72/Monsters-APP/static/js/2.3dfd3ca0.chunk.js.map",
-    "static/js/3.a75f96e1.chunk.js": "/vinay72/Monsters-APP/static/js/3.a75f96e1.chunk.js",
-    "static/js/3.a75f96e1.chunk.js.map": "/vinay72/Monsters-APP/static/js/3.a75f96e1.chunk.js.map",
-    "index.html": "/vinay72/Monsters-APP/index.html",
-    "static/css/main.8bcf5aac.chunk.css.map": "/vinay72/Monsters-APP/static/css/main.8bcf5aac.chunk.css.map",
-    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/vinay72/Monsters-APP/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
+    "main.css": "//Monsters-APP/static/css/main.8bcf5aac.chunk.css",
+    "main.js": "//Monsters-APP/static/js/main.51bf9538.chunk.js",
+    "main.js.map": "//Monsters-APP/static/js/main.51bf9538.chunk.js.map",
+    "runtime-main.js": "//Monsters-APP/static/js/runtime-main.61a65964.js",
+    "runtime-main.js.map": "//Monsters-APP/static/js/runtime-main.61a65964.js.map",
+    "static/js/2.3dfd3ca0.chunk.js": "//Monsters-APP/static/js/2.3dfd3ca0.chunk.js",
+    "static/js/2.3dfd3ca0.chunk.js.map": "//Monsters-APP/static/js/2.3dfd3ca0.chunk.js.map",
+    "static/js/3.a75f96e1.chunk.js": "//Monsters-APP/static/js/3.a75f96e1.chunk.js",
+    "static/js/3.a75f96e1.chunk.js.map": "//Monsters-APP/static/js/3.a75f96e1.chunk.js.map",
+    "index.html": "//Monsters-APP/index.html",
+    "static/css/main.8bcf5aac.chunk.css.map": "//Monsters-APP/static/css/main.8bcf5aac.chunk.css.map",
+    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "//Monsters-APP/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7c5c4b8.js",
+    "static/js/runtime-main.61a65964.js",
     "static/js/2.3dfd3ca0.chunk.js",
     "static/css/main.8bcf5aac.chunk.css",
     "static/js/main.51bf9538.chunk.js"
